@@ -103,8 +103,8 @@ body.multiple-scenes.mobile #titleBar {
   width: 40px;
   height: 40px;
   padding: 5px;
-  background-color: rgb(103,115,131);
-  background-color: rgba(103,115,131,0.8);
+  background-color: rgb(252,3,3);
+  background-color: rgba(252,3,3,0.8);
 }
 
 .mobile #fullscreenToggle {
